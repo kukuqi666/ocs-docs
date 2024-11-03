@@ -1,0 +1,51 @@
+/**
+媒体查询
+*/
+
+@media screen and (max-width: 1200px) {
+    .showCase {
+        width: 100% !important;
+        ;
+    }
+
+    .showCaseImgContainer {
+        width: 100% !important;
+        flex-wrap: wrap;
+    }
+
+
+    .showCase+.showCase {
+        margin-left: 0px !important;
+    }
+}
+
+
+.showCase {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 25%;
+}
+
+.showCaseDesc {
+    margin-top: 24px;
+    height: 200px;
+    text-align: center;
+    font-size: 22px;
+    color: #4d4d4d;
+}
+
+
+.showCase+.showCase {
+    margin-left: 64px;
+}
+
+
+.showCaseImgContainer {
+    width: 70%;
+    padding: 24px;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+}
