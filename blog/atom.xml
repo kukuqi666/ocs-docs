@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://kukuqi666.github.io/ocs-docs/blog</id>
+    <title>OCS网课助手 Blog</title>
+    <updated>2024-11-03T09:39:35.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://kukuqi666.github.io/ocs-docs/blog"/>
+    <subtitle>OCS网课助手 Blog</subtitle>
+    <icon>https://kukuqi666.github.io/ocs-docs/https://cdn.ocsjs.com/logo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[欢迎来到OCS博客]]></title>
+        <id>https://kukuqi666.github.io/ocs-docs/blog/欢迎来到OCS博客</id>
+        <link href="https://kukuqi666.github.io/ocs-docs/blog/欢迎来到OCS博客"/>
+        <updated>2024-11-03T09:39:35.000Z</updated>
+        <summary type="html"><![CDATA[这里用于记录一些博客内容。]]></summary>
+        <content type="html"><![CDATA[<p>这里用于记录一些博客内容。</p>]]></content>
+        <author>
+            <name>酷酷琪</name>
+            <uri>https://github.com/kukuqi666</uri>
+        </author>
+        <category label="intro" term="intro"/>
+    </entry>
+</feed>
